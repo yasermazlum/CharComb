@@ -1,0 +1,15 @@
+D:\Projects\DotNet\CharComb\CharComb\bin\Debug\net7.0\CharComb.exe
+D:\Projects\DotNet\CharComb\CharComb\bin\Debug\net7.0\CharComb.deps.json
+D:\Projects\DotNet\CharComb\CharComb\bin\Debug\net7.0\CharComb.runtimeconfig.json
+D:\Projects\DotNet\CharComb\CharComb\bin\Debug\net7.0\CharComb.dll
+D:\Projects\DotNet\CharComb\CharComb\bin\Debug\net7.0\CharComb.pdb
+D:\Projects\DotNet\CharComb\CharComb\obj\Debug\net7.0\CharComb.csproj.AssemblyReference.cache
+D:\Projects\DotNet\CharComb\CharComb\obj\Debug\net7.0\CharComb.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\DotNet\CharComb\CharComb\obj\Debug\net7.0\CharComb.AssemblyInfoInputs.cache
+D:\Projects\DotNet\CharComb\CharComb\obj\Debug\net7.0\CharComb.AssemblyInfo.cs
+D:\Projects\DotNet\CharComb\CharComb\obj\Debug\net7.0\CharComb.csproj.CoreCompileInputs.cache
+D:\Projects\DotNet\CharComb\CharComb\obj\Debug\net7.0\CharComb.dll
+D:\Projects\DotNet\CharComb\CharComb\obj\Debug\net7.0\refint\CharComb.dll
+D:\Projects\DotNet\CharComb\CharComb\obj\Debug\net7.0\CharComb.pdb
+D:\Projects\DotNet\CharComb\CharComb\obj\Debug\net7.0\CharComb.genruntimeconfig.cache
+D:\Projects\DotNet\CharComb\CharComb\obj\Debug\net7.0\ref\CharComb.dll
